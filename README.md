@@ -72,12 +72,15 @@ endmodule
 
 ### RTL LOGIC  REGISTERS   
 
+![image](https://github.com/Vineesh-AI-DS/Exercise-09-Shift-registers-using-verilog-/assets/93427254/630d8f8c-4d6a-49c2-8b2f-abc7d03a75b9)
 
 
 
 
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
+![image](https://github.com/Vineesh-AI-DS/Exercise-09-Shift-registers-using-verilog-/assets/93427254/6072a0d7-7bf0-43b5-844e-9e6955eea8bd)
+
 
 ### PROGRAM 2:
 ``` 
@@ -101,11 +104,15 @@ endmodule
 ### RTL LOGIC  REGISTERS   
 
 
+![image](https://github.com/Vineesh-AI-DS/Exercise-09-Shift-registers-using-verilog-/assets/93427254/f5b7950a-517e-43b3-87b5-312d179ddfb7)
 
 
 
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
+
+![image](https://github.com/Vineesh-AI-DS/Exercise-09-Shift-registers-using-verilog-/assets/93427254/508bf6d4-1e77-4d67-b7b2-ac688d4d2ba3)
+
 ### PROGRAM 3:
 ```
 module PIPO (Po,Pi,clk);
@@ -119,15 +126,13 @@ end
 endmodule
 ```
 ### RTL LOGIC  REGISTERS   
-
-
-
-
+![image](https://github.com/Vineesh-AI-DS/Exercise-09-Shift-registers-using-verilog-/assets/93427254/89965887-7203-499a-9965-b42ae2ae0440)
 
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
 
 
+![image](https://github.com/Vineesh-AI-DS/Exercise-09-Shift-registers-using-verilog-/assets/93427254/badbc62c-86ef-4286-bda2-ab7fd492d2f7)
 
 
 
